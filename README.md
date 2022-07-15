@@ -1,0 +1,2 @@
+# mcmirror
+Make money
